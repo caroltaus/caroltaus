@@ -16,7 +16,6 @@
 ## Here are some of my apps!
 
 
-
 <table>
     <tr>
         <td align="center">
@@ -52,7 +51,7 @@
               </sub>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/48024795/194927457-0a13d21f-c03e-44fe-8b1a-01c041856945.png" width="100px;" alt="Totigotchi icon"/><br>
+            <img src="https://user-images.githubusercontent.com/48024795/194949256-08dbfd21-4267-4701-b7a2-b2aecd76b916.png" width="100px;" alt="Totigotchi icon"/><br>
             <b>Totigotchi</b> <br>
               <sub>
                 <a href="https://apps.apple.com/us/app/totigotchi/id1578772774">App Store</a><br>
